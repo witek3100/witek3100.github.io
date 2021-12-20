@@ -14,6 +14,9 @@ Naszym głównym projektem są szachy w języku Python. Prziesienie jednej z naj
 
 <a href="https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Bardzo-Dobry-Sklad-Matematykow/wiki">dokumentacja projektu</a>  
 
+Witold Nowogórski - st. Informatyki i Systemów Inteligentnych, AGH   
+witek.nowogorski@gmail.com  
+
 Karol Kucza - st. Informatyki i Systemów Inteligentnych, AGH  
 https://github.com/achook  
 karol.kucza.2002@gmail.com  
